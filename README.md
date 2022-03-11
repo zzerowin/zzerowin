@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -15,7 +17,5 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
 
 <br>
