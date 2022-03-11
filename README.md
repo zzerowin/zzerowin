@@ -1,7 +1,4 @@
-<div align="center">
-#
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
-</div>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -18,4 +15,9 @@
   <img src="https://img.shields.io/badge/Recoil-3578e6?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  
+  <div align="center">
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
+  </div>
+  
 </p>
