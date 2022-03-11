@@ -1,4 +1,4 @@
-<div align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
