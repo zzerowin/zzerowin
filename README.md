@@ -1,4 +1,4 @@
-<div aline="center">
+<div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
 
 <p> Techs that I've used at least once </p>
