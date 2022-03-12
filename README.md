@@ -1,4 +1,5 @@
-<h3>🛠 Tech Stack 🛠</h3>
+<div aline="center">
+  <h3>🛠 Tech Stack 🛠</h3>
 
 <p> Techs that I've used at least once </p>
 
@@ -18,3 +19,4 @@
 <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
+</div>
