@@ -17,7 +17,10 @@
 </p>
 
 <div align="center">
-  <h3>📚 Study 📚</h3>
+  <h3>📚 Studying 📚</h3>
+  
+<p> It's the language I'm studying. </p>
+  
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 </p>
