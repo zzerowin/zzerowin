@@ -16,8 +16,12 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
-<h3📚 Study 📚</h3>
+<div align="center">
+  <h3>📚 Study 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+</p>
+</div>
 
 <br/>
 
