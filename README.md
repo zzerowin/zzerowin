@@ -18,5 +18,8 @@
 
 <br/>
 
+  <h3📚 Study 📚</h3>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzerowin&show_icons=true&theme=tokyonight)
 </div>
