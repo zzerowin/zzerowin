@@ -21,9 +21,9 @@
   
 <p> It's the language I'm studying </p>
   
-<!-- <p>
+<p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
-</p> -->
+</p>
 </div>
 
 <br/>
