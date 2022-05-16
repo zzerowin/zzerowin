@@ -4,7 +4,7 @@
 <p> Techs that I've used at least once </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://camo.githubusercontent.com/fb6e589df4014f3cc8f92de821ea95fe300b8c7a6f7522e65d97023779965846/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532334637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
