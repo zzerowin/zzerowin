@@ -6,7 +6,7 @@
 </div>
 
 <br/>
-<u></u>
+<hr width=”50px” color=”black” noshade />
 
 <div>
   <h3>🔹 Tech Stack </h3>
