@@ -2,7 +2,7 @@
 
 <div>
   <h3>🔸 A little about me</h3>
-  <div>I am a <h4>frontend developer</h4> who loves to create a beautiful product with excellent UI/UX design.</div>
+  <div>I am a frontend developer who loves to create a beautiful product with excellent UI/UX design.</div>
 </div>
 
 <br/>
