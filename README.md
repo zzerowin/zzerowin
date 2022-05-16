@@ -5,9 +5,6 @@
   <div>I am a frontend developer who loves to create a beautiful product with excellent UI/UX design.</div>
 </div>
 
-<hr width=”50px” color=”black” noshade />
-<br/>
-
 <div>
   <h3>🔹 Tech Stack </h3>
   
