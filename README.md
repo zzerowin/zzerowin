@@ -12,9 +12,7 @@
 
 <div align="center">
   <h3>📚 Studying 📚</h3>
-  
-<p> It's the tech I'm studying </p>
-  
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 </p>
