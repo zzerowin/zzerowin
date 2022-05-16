@@ -7,7 +7,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <h3>🔹 Tech Stack </h3>
   
 <p>
@@ -19,7 +19,7 @@
    <img src="https://camo.githubusercontent.com/65ea742f8d181fea093157669c6d930bbf7417fa23e055d1f9ba3ac91c7d9609/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d2532333030303030303f7374796c653d666c61742d737175617265266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d7768697465"/></a>&nbsp
 </p>
 
-<div align="center">
+<div>
   <h3>🔸 Studying </h3>
 
 <p>
